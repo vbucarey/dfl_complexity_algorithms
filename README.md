@@ -14,3 +14,7 @@ You can find the preprint online in the following [link](https://optimization-on
   organization={Springer}
 }
 ```
+
+# Runing the codes
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SvMil75ZbrlnSeYkmr3ITkxDv9I7tanX?authuser=2)**Shortest path :** Obtaining results for shortest path
