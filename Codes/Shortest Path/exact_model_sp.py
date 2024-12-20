@@ -30,7 +30,7 @@ def reformulated(filename, tiempo, omega0, real_cost):
     
     #--------------------Variables--------------------
     mu = {i: {n: model.addVar(vtype = GRB.CONTINUOUS, name = "mu[{}][{}]".format(i, n), lb = -GRB.INFINITY, ub = 0) for n in V} for i in range(len(N))}
-    theta = {i: {(i, j): model.addVar(vtype = GRB.CONTINUOUS, name = "theta[{}][({},{})]".format(i, j, k), lb = 0, ub = GRB.INFINITY) for (j, k) in E} for i in range(len(N))}
+    theta = {i: {(j, k): model.addVar(vtype = GRB.CONTINUOUS, name = "theta[{}][({},{})]".format(i, j, k), lb = 0, ub = GRB.INFINITY) for (j, k) in E} for i in range(len(N))}
     delta = {i: {(j, k): model.addVar(vtype = GRB.CONTINUOUS, name = "delta[{}][({},{})]".format(i, j, k), lb = 0, ub = GRB.INFINITY) for (j, k) in E} for i in range(len(N))}
     gamma = {i: model.addVar(vtype = GRB.CONTINUOUS, name = "gamma[{}]".format(i), lb = 0, ub = GRB.INFINITY) for i in range(len(N))}
     omega = {(j, k): [model.addVar(vtype = GRB.CONTINUOUS, name = "omega[({},{})][{}]".format(j, k, l), lb = -1, ub = 1) for l in range(w)] for (j, k) in E}
