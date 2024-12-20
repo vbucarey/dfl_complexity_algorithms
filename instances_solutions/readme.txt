@@ -2,7 +2,7 @@
 
 This repository contains the datasets for Bipartite Matching and Shortest Path problems considered in the following paper
 
-Bucarey, V., Calderón, S., Munoz, G., & Semet, F. Decision-focused predictions via pessimistic bilevel optimization: complexity and algorithms. (2024)
+Bucarey, V., Calderón, S., Munoz, G., & Semet, F. Decision-focused predictions via pessimistic bilevel optimization: complexity and algorithms (2024)
 
 ########## DATASETS #########
 
