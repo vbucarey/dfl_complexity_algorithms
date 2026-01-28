@@ -25,3 +25,7 @@ You can find the preprint online in the following [link](https://optimization-on
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sQnbbRN5nc9Mxp5QQqnpOwh0VYe9BG54?usp=sharing)** Bipartite matching :** Obtaining results for bipartite matching instances
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D3jpDAyd2G7Bierqh_Mo2pR0fRVLbWkp?usp=sharing)** Shortest path  results:** Results for shortest path instances
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LAX89AunFKayRHGBsbwhCkrzoDP643z9?usp=sharing)** Bipartite matching results :** Results for bipartite matching instances
+
+## Experiments in Section 5.2
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15V2RIyRnttz2Ocy5g5RWyStzMipz7IPm?usp=sharing) ** Training performance improvement of alternating method
