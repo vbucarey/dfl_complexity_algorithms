@@ -2,7 +2,8 @@
 Computational experiments of the article Decision--focused predictions via pessimistic bilevel
 optimization: complexity and algorithms, by Víctor Bucarey, Sophia Calderón, Gonzalo Muñoz, and Frederic Semet.
 
-You can find the preprint online in the following [link]([https://optimization-online.org/wp-content/uploads/2024/11/DFL__complexity_and_algorithms_OPT_ONLINE-1.pdf]). This paper is the journal extension of the proceeding presented at CPAIOR 2024:
+You can find the preprint online in the following [link](https://optimization-online.org/wp-content/uploads/2024/11/DFL__complexity_and_algorithms_OPT_ONLINE-1.pdf).
+ This paper is the journal extension of the proceeding presented at CPAIOR 2024:
 
 ```
 @inproceedings{bucarey2024decision,
