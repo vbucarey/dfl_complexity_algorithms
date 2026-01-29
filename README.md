@@ -28,4 +28,4 @@ You can find the preprint online in the following [link](https://optimization-on
 
 ## Experiments in Section 5.3
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QYlmNdVK-j4q3lYp6fJ9xnMmgHxe6irZ?usp=sharing) ** Training performance improvement of alternating method
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QYlmNdVK-j4q3lYp6fJ9xnMmgHxe6irZ?usp=sharing) ** Training performance improvement of alternating method
