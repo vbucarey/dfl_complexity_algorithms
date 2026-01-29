@@ -20,12 +20,12 @@ You can find the preprint online in the following [link](https://optimization-on
 
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NlCe8YxzsDiOmchLbpz2Unf8TKZAWCCh?usp=sharing) **Example:** Example in Section 1.2
- ## Experiments in Section 5.1
+ ## Experiments in Section 5.2.2.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I21iUPcsWm7-JmLTQHLcHT-layH9V7QX?usp=sharing)** Shortest path :** Obtaining results for shortest path instances
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sQnbbRN5nc9Mxp5QQqnpOwh0VYe9BG54?usp=sharing)** Bipartite matching :** Obtaining results for bipartite matching instances
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D3jpDAyd2G7Bierqh_Mo2pR0fRVLbWkp?usp=sharing)** Shortest path  results:** Results for shortest path instances
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LAX89AunFKayRHGBsbwhCkrzoDP643z9?usp=sharing)** Bipartite matching results :** Results for bipartite matching instances
 
-## Experiments in Section 5.2
+## Experiments in Section 5.3
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SE5zULt6XOYT-yZaqrvOx1QpNTG4bE37/view?usp=sharing) ** Training performance improvement of alternating method
